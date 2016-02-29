@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Paytone+One);
+
+.svtag {
+  font-family: Paytone One;
+}
+
+#viz {
+  position: absolute;
+  z-index: 9;
+}
+
+div .ontop {
+  display: block;
+z-index: 99;
+}
+
+div > .top {
+  z-index: 10;
+}
+
+/*#viz {
+  width: 20%;
+  height: 20%;
+  z-index: 10;
+}*/
+
+/*.lid {
+  transition: 2s;
+}*/
+
+/*.lid {
+  fill: blue;
+  width: 20%;
+  height: 20%;
+  transition: 2s;
+}*/
+
+.top {
+}
+
+.jug {
+}
+
+.bottom {
+z-index: 9;
+}
+
+.base {
+
+}
+
+.button {
+
+}
+
+.svg-layer {
+
+}
